@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/jmatthewsr-ms/jumatthe-control-plane
   branch: main
   path: .
-  commit: 7bb8d981329debbf8bc94912ddaa9893396fc27a
+  commit: af1a4e80a7691b6d7cb8a2922a1dddfa7fbd8421
