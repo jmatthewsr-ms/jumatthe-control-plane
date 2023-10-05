@@ -1,0 +1,11 @@
+kind: WorkloadRegistration
+metadata:
+  name: jumatthe-app
+  labels:
+    type: application
+spec:
+  workload:
+    repo: https://github.com/jmatthewsr-ms/jumatthe-app-src
+    branch: main
+    path: workload/
+  workspace: jumatthe
